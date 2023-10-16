@@ -18,7 +18,7 @@ char *get_env(const char *var_name)
 	if (!var_name)
 	return (NULL);
 	
-	env = environ
+	env = environ;
 	
 	for (i = 0; env[i]; i++)
 	{
