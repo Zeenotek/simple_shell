@@ -29,4 +29,3 @@ char *_strtrim(char *str)
 
 	return (str);
 }
-

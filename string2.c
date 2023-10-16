@@ -49,4 +49,3 @@ int _strncmp(const char *st1, const char *st2, size_t i)
 	}
 	return (0);
 }
-
