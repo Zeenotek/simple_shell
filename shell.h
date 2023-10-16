@@ -31,4 +31,3 @@ ssize_t my_getline(char **line, size_t *len, FILE *stream);
 
 void _directory(char *user_path);
 #endif /* SHELL_H */
-
